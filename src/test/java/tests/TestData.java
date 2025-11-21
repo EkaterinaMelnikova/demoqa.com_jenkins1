@@ -1,11 +1,14 @@
 package tests;
 
 import com.github.javafaker.Faker;
+import org.junit.jupiter.api.Tag;
 
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Locale;
 
+
+@Tag("demoqa")
 public class TestData {
 
     Faker faker = new Faker();
