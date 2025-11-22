@@ -23,8 +23,8 @@ public class PracticeFormPage {
     public PracticeFormPage openPage(){
         open("/automation-practice-form");
         $(".text-center").shouldHave(text(titleText));
-//        executeJavaScript("$('#fixedban').remove()");
-//        executeJavaScript("$('footer').remove()");
+        executeJavaScript("$('#fixedban').remove()");
+        executeJavaScript("$('footer').remove()");
 
         return this;
     }
