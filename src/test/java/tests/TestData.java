@@ -8,7 +8,7 @@ import java.util.Collections;
 import java.util.Locale;
 
 
-@Tag("demoqa")
+
 public class TestData {
 
     Faker faker = new Faker();

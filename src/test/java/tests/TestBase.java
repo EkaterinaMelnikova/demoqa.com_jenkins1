@@ -13,7 +13,7 @@ import pages.PracticeFormPage;
 import java.util.Map;
 
 
-@Tag("demoqa")
+
 public class TestBase {
 
     TestData testData = new TestData();

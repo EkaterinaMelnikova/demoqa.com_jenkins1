@@ -12,8 +12,6 @@ import java.util.Locale;
 public class PracticeFormTestsPOMJavaFaker extends TestBase {
 
 
-
-
     @Test
     void fillPracticeFormTest() {
 
