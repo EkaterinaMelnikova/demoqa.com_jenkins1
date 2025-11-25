@@ -71,7 +71,4 @@ Allure-отчет включает в себя:
 <img title="Test Results in Alure" src="images/screenshots/allure_steps.png">
 </p>
 
-<p>Пример видео из Selenoid</p>
-<p align="center">
-  <img title="allure_video" src="images/video/allure_video.gif">
-</p>
+
